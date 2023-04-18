@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -l | grep -A 2 root /etc/passwd
